@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+*.pyc
+.DS_Store
+*.log
+data/policies/*.pdf
+!data/policies/.gitkeep
+evaluation/results.csv

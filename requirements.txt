@@ -1,0 +1,14 @@
+langchain>=1.0,<2
+langchain-community>=0.4,<1
+langchain-text-splitters>=1,<2
+langchain-huggingface>=1,<2
+langchain-pinecone>=0.2,<1
+langchain-groq>=1,<2
+langgraph>=1,<2
+pinecone>=7,<10
+pypdf>=5,<7
+sentence-transformers>=3,<6
+streamlit>=1.45,<2
+python-dotenv>=1,<2
+pandas>=2,<3
+pytest>=8,<10
